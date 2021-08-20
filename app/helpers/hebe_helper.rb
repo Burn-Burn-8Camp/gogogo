@@ -1,0 +1,2 @@
+module HebeHelper
+end
