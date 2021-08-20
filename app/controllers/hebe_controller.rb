@@ -1,0 +1,2 @@
+class HebeController < ApplicationController
+end
